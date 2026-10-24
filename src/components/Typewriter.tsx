@@ -14,7 +14,7 @@ export function Typewriter({
   reducedMotion,
   typeSpeed = 85,
   deleteSpeed = 45,
-  holdTime = 3000,
+  holdTime = 2500,
 }: Props) {
   const [index, setIndex] = useState(0);
   const [text, setText] = useState(reducedMotion ? words[0] : '');

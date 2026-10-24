@@ -1,6 +1,6 @@
 /* ---------- Colours (taken from the reference screenshots) ---------- */
 :root,
-:root[data-theme='dark'] {
+:root[data-mode='dark'] {
   color-scheme: dark;
   --bg: #0f172a;
   --card: rgba(22, 24, 32, 0.92);
@@ -22,7 +22,7 @@
   --toggle-bg: rgba(17, 18, 24, 0.7);
 }
 
-:root[data-theme='light'] {
+:root[data-mode='light'] {
   color-scheme: light;
   --bg: #eef0f5;
   --card: rgba(248, 249, 251, 0.94);
