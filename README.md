@@ -2,7 +2,7 @@
 
 My personal homepage: a single profile card with a live Discord status, typing role text, links, and an interactive particle background.
 
-**Live site:** https://rexouo.github.io/Personal-Portfolio/
+**Live site:** https://rexhuang.dev
 
 ## Features
 
