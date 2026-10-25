@@ -521,8 +521,8 @@ a {
   }
 }
 
-/* Leave room for the theme button on short phone screens */
-@media (max-width: 520px) and (max-height: 760px) {
+/* Leave room above the card for the theme button on phones */
+@media (max-width: 520px) {
   #root {
     padding-top: max(76px, env(safe-area-inset-top));
   }

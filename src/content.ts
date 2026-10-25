@@ -7,15 +7,24 @@ export const profile = {
   avatarAlt: "Rex's cat",
 
   // Words typed out one by one under the name
-  roles: ['Web Developer', 'Fast Learner', 'Creative Thinker', 'AI Enthusiast'],
+  roles: ['Web Developer', 'IT Support', 'Creative Thinker', 'Problem Solver', 'AI Enthusiast'],
 
   // Lines in the box under the icons
   bio: [
-    'Looking for an Intern / Graduate / Junior Software Engineer role.',
-    'Currently learning React, TypeScript, AWS and AI-assisted development.',
+    'Looking for an IT Support, Help Desk or junior Web Developer role in Sydney.',
+    'Freelance IT support since 2021; learning React, TypeScript, AWS and AI-assisted development.',
   ],
 
-  skills: ['HTML', 'CSS', 'JavaScript', 'React', 'TypeScript'],
+  skills: [
+    'Technical Support',
+    'Troubleshooting',
+    'Hardware',
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'React',
+    'TypeScript',
+  ],
 
   links: {
     github: 'https://github.com/RexOUO',
